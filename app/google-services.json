@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "874336370200",
+    "firebase_url": "https://singin-97a74.firebaseio.com",
+    "project_id": "singin-97a74",
+    "storage_bucket": "singin-97a74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874336370200:android:86623d758f8b0243",
+        "android_client_info": {
+          "package_name": "com.example.sage.singin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874336370200-k2qf7ip229qopjba5r3h0bls3gh9pral.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sage.singin",
+            "certificate_hash": "8e2030692d44f890fa7162ea726474a6cfb1e1bd"
+          }
+        },
+        {
+          "client_id": "874336370200-1r0kujpfrm3buvlhmh88au2687kuegoj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "874336370200-1r0kujpfrm3buvlhmh88au2687kuegoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Q2PsEkC0xtjiQou8h4khYWTmmILac4U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874336370200-1r0kujpfrm3buvlhmh88au2687kuegoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
